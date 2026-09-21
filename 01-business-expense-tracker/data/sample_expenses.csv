@@ -1,0 +1,501 @@
+date,category,description,amount
+2026-01-01,Entertainment,Event,628
+2026-01-01,Education,Exam fee,4178
+2026-01-01,Healthcare,Medical test,2035
+2026-01-01,Education,Books,3243
+2026-01-02,Education,Exam fee,2773
+2026-01-02,Transport,Bus fare,1765
+2026-01-02,Bills,Subscription,1487
+2026-01-02,Bills,Electricity bill,386
+2026-01-02,Bills,Internet bill,1073
+2026-01-02,Bills,Internet bill,1085
+2026-01-02,Food,Restaurant,898
+2026-01-03,Education,Printing,1625
+2026-01-03,Healthcare,Medical test,1199
+2026-01-03,Shopping,Electronics,4441
+2026-01-03,Shopping,Clothes,1425
+2026-01-03,Entertainment,Cafe,1428
+2026-01-03,Shopping,Personal items,1560
+2026-01-03,Other,Miscellaneous,4149
+2026-01-04,Shopping,Personal items,2055
+2026-01-04,Other,Miscellaneous,4555
+2026-01-04,Other,Unexpected expense,3337
+2026-01-04,Other,Donation,3884
+2026-01-04,Entertainment,Event,1273
+2026-01-04,Education,Books,3351
+2026-01-04,Entertainment,Streaming subscription,1310
+2026-01-04,Healthcare,Doctor consultation,2247
+2026-01-05,Education,Python course,1595
+2026-01-05,Shopping,Electronics,2924
+2026-01-05,Other,Donation,420
+2026-01-05,Food,Snacks,1427
+2026-01-06,Other,Miscellaneous,2031
+2026-01-06,Healthcare,Medical test,4600
+2026-01-06,Transport,Parking,1458
+2026-01-06,Education,Python course,3908
+2026-01-07,Other,Donation,978
+2026-01-07,Entertainment,Gaming,2371
+2026-01-07,Bills,Internet bill,1637
+2026-01-07,Other,Gift,438
+2026-01-07,Food,Restaurant,401
+2026-01-07,Bills,Internet bill,1549
+2026-01-08,Shopping,Electronics,5427
+2026-01-08,Education,Exam fee,3302
+2026-01-09,Other,Unexpected expense,1954
+2026-01-09,Entertainment,Gaming,533
+2026-01-09,Food,Snacks,882
+2026-01-09,Food,College canteen,718
+2026-01-09,Transport,Cab,1212
+2026-01-10,Other,Unexpected expense,4644
+2026-01-10,Bills,Subscription,302
+2026-01-10,Bills,Mobile recharge,1094
+2026-01-10,Transport,Auto fare,586
+2026-01-10,Entertainment,Gaming,1286
+2026-01-11,Healthcare,Medical test,2185
+2026-01-11,Shopping,Accessories,4328
+2026-01-11,Entertainment,Event,2353
+2026-01-11,Bills,Internet bill,1025
+2026-01-11,Food,Breakfast,1258
+2026-01-11,Entertainment,Streaming subscription,2566
+2026-01-11,Entertainment,Gaming,2424
+2026-01-11,Education,Python course,1786
+2026-01-11,Entertainment,Cafe,1122
+2026-01-11,Food,Restaurant,1325
+2026-01-11,Transport,Cab,430
+2026-01-12,Food,Snacks,1422
+2026-01-12,Bills,Electricity bill,4966
+2026-01-12,Bills,Electricity bill,2066
+2026-01-12,Transport,Metro,1361
+2026-01-13,Entertainment,Movie,1875
+2026-01-13,Other,Donation,4503
+2026-01-13,Education,Python course,2796
+2026-01-13,Other,Miscellaneous,2047
+2026-01-13,Shopping,Electronics,857
+2026-01-13,Food,College canteen,628
+2026-01-14,Food,Snacks,969
+2026-01-14,Other,Miscellaneous,4424
+2026-01-14,Bills,Subscription,4125
+2026-01-14,Transport,Parking,1638
+2026-01-14,Bills,Internet bill,1289
+2026-01-14,Bills,Electricity bill,2028
+2026-01-15,Food,Dinner,1499
+2026-01-15,Entertainment,Event,554
+2026-01-15,Entertainment,Streaming subscription,325
+2026-01-15,Shopping,Shoes,348
+2026-01-15,Transport,Auto fare,884
+2026-01-15,Food,Dinner,690
+2026-01-15,Transport,Auto fare,905
+2026-01-15,Healthcare,Doctor consultation,869
+2026-01-16,Entertainment,Movie,1872
+2026-01-16,Transport,Bus fare,31
+2026-01-17,Healthcare,Medicine,243
+2026-01-17,Transport,Parking,1189
+2026-01-17,Shopping,Accessories,5976
+2026-01-17,Education,Books,2604
+2026-01-17,Bills,Internet bill,3899
+2026-01-18,Bills,Internet bill,4168
+2026-01-18,Entertainment,Gaming,2227
+2026-01-18,Other,Gift,1342
+2026-01-18,Transport,Bus fare,901
+2026-01-19,Healthcare,Doctor consultation,2282
+2026-01-19,Food,College canteen,1208
+2026-01-19,Healthcare,Doctor consultation,2517
+2026-01-19,Healthcare,Doctor consultation,991
+2026-01-19,Healthcare,Medical test,2213
+2026-01-20,Entertainment,Gaming,1992
+2026-01-20,Bills,Mobile recharge,601
+2026-01-20,Shopping,Personal items,7564
+2026-01-20,Healthcare,Doctor consultation,1007
+2026-01-20,Healthcare,Medicine,3697
+2026-01-20,Healthcare,Doctor consultation,4238
+2026-01-20,Food,Restaurant,142
+2026-01-20,Shopping,Shoes,4259
+2026-01-20,Transport,Parking,1852
+2026-01-21,Transport,Auto fare,777
+2026-01-21,Healthcare,Medicine,3418
+2026-01-21,Healthcare,Medical test,806
+2026-01-21,Shopping,Clothes,4195
+2026-01-21,Education,Stationery,4265
+2026-01-21,Entertainment,Streaming subscription,1901
+2026-01-21,Shopping,Personal items,4453
+2026-01-22,Food,Snacks,469
+2026-01-22,Bills,Electricity bill,3790
+2026-01-22,Bills,Electricity bill,3097
+2026-01-22,Bills,Internet bill,3106
+2026-01-23,Shopping,Shoes,7486
+2026-01-23,Education,Python course,2653
+2026-01-23,Education,Stationery,3481
+2026-01-23,Bills,Electricity bill,1572
+2026-01-23,Healthcare,Doctor consultation,2385
+2026-01-24,Bills,Internet bill,2766
+2026-01-24,Entertainment,Gaming,950
+2026-01-24,Entertainment,Movie,2250
+2026-01-24,Transport,Fuel,1917
+2026-01-24,Food,Breakfast,1173
+2026-01-24,Healthcare,Medicine,3915
+2026-01-24,Bills,Electricity bill,1874
+2026-01-24,Other,Unexpected expense,4476
+2026-01-24,Transport,Auto fare,1483
+2026-01-25,Shopping,Clothes,6779
+2026-01-25,Healthcare,Medicine,4428
+2026-01-26,Other,Miscellaneous,4068
+2026-01-26,Shopping,Electronics,5105
+2026-01-26,Other,Miscellaneous,3362
+2026-01-26,Entertainment,Cafe,2137
+2026-01-26,Food,Breakfast,1444
+2026-01-27,Shopping,Shoes,852
+2026-01-27,Food,Breakfast,435
+2026-01-27,Entertainment,Gaming,2879
+2026-01-27,Entertainment,Gaming,2889
+2026-01-28,Education,Notebook,2181
+2026-01-28,Other,Gift,4765
+2026-01-28,Other,Miscellaneous,2655
+2026-01-28,Food,Dinner,494
+2026-01-29,Bills,Internet bill,4386
+2026-01-29,Other,Unexpected expense,1361
+2026-01-29,Shopping,Clothes,2023
+2026-01-29,Bills,Electricity bill,4594
+2026-01-29,Transport,Parking,1921
+2026-01-29,Food,Dinner,890
+2026-01-30,Food,Breakfast,818
+2026-01-30,Education,Python course,3211
+2026-01-30,Food,Breakfast,479
+2026-01-30,Food,Breakfast,909
+2026-01-30,Shopping,Shoes,733
+2026-01-30,Transport,Bus fare,618
+2026-01-31,Food,Breakfast,493
+2026-01-31,Shopping,Accessories,2012
+2026-01-31,Healthcare,Medical test,3242
+2026-01-31,Shopping,Accessories,6099
+2026-01-31,Shopping,Shoes,7699
+2026-02-01,Entertainment,Cafe,1569
+2026-02-01,Food,College canteen,459
+2026-02-01,Healthcare,Medicine,687
+2026-02-01,Shopping,Shoes,2953
+2026-02-01,Healthcare,Doctor consultation,4965
+2026-02-01,Entertainment,Cafe,159
+2026-02-02,Other,Gift,556
+2026-02-02,Entertainment,Cafe,730
+2026-02-02,Education,Stationery,3459
+2026-02-03,Education,Exam fee,3241
+2026-02-03,Food,Snacks,1439
+2026-02-03,Shopping,Accessories,2243
+2026-02-03,Education,Books,4442
+2026-02-03,Bills,Electricity bill,3948
+2026-02-03,Bills,Internet bill,2617
+2026-02-04,Bills,Mobile recharge,3880
+2026-02-04,Entertainment,Event,1517
+2026-02-04,Education,Exam fee,2899
+2026-02-04,Entertainment,Streaming subscription,2715
+2026-02-04,Food,Breakfast,546
+2026-02-04,Transport,Auto fare,277
+2026-02-05,Transport,Auto fare,663
+2026-02-05,Transport,Parking,828
+2026-02-05,Shopping,Shoes,6115
+2026-02-05,Shopping,Personal items,1553
+2026-02-05,Healthcare,Doctor consultation,3713
+2026-02-05,Education,Python course,3758
+2026-02-06,Bills,Internet bill,343
+2026-02-06,Shopping,Accessories,2401
+2026-02-06,Education,Printing,3490
+2026-02-06,Shopping,Shoes,5716
+2026-02-06,Other,Unexpected expense,1688
+2026-02-06,Other,Donation,2051
+2026-02-06,Shopping,Shoes,7707
+2026-02-06,Shopping,Personal items,6565
+2026-02-07,Food,Breakfast,459
+2026-02-07,Transport,Parking,1199
+2026-02-07,Healthcare,Doctor consultation,423
+2026-02-08,Shopping,Clothes,2433
+2026-02-08,Entertainment,Cafe,2492
+2026-02-09,Education,Python course,2317
+2026-02-09,Healthcare,Medicine,3134
+2026-02-09,Education,Printing,3723
+2026-02-09,Other,Donation,417
+2026-02-09,Education,Exam fee,2389
+2026-02-10,Entertainment,Gaming,437
+2026-02-10,Education,Printing,191
+2026-02-10,Shopping,Accessories,2437
+2026-02-10,Entertainment,Gaming,887
+2026-02-11,Food,Lunch,746
+2026-02-11,Bills,Electricity bill,2412
+2026-02-11,Food,Snacks,422
+2026-02-11,Healthcare,Doctor consultation,4674
+2026-02-11,Bills,Mobile recharge,3831
+2026-02-11,Healthcare,Medical test,3036
+2026-02-12,Bills,Mobile recharge,2812
+2026-02-12,Transport,Bus fare,1293
+2026-02-12,Other,Gift,3937
+2026-02-12,Entertainment,Streaming subscription,453
+2026-02-12,Education,Printing,2216
+2026-02-13,Bills,Electricity bill,737
+2026-02-13,Shopping,Electronics,4402
+2026-02-13,Transport,Bus fare,1119
+2026-02-13,Education,Notebook,1954
+2026-02-13,Healthcare,Medical test,2349
+2026-02-13,Healthcare,Medical test,4659
+2026-02-13,Bills,Subscription,2255
+2026-02-13,Entertainment,Gaming,2782
+2026-02-14,Shopping,Shoes,2596
+2026-02-14,Bills,Subscription,2946
+2026-02-14,Other,Gift,3549
+2026-02-14,Education,Python course,3652
+2026-02-14,Healthcare,Doctor consultation,4724
+2026-02-14,Bills,Subscription,261
+2026-02-14,Other,Miscellaneous,442
+2026-02-14,Bills,Internet bill,3650
+2026-02-15,Food,Restaurant,503
+2026-02-15,Food,Breakfast,825
+2026-02-15,Bills,Subscription,1618
+2026-02-15,Bills,Mobile recharge,2098
+2026-02-16,Entertainment,Streaming subscription,1242
+2026-02-16,Food,Lunch,1264
+2026-02-16,Other,Unexpected expense,490
+2026-02-16,Healthcare,Medical test,1879
+2026-02-16,Education,Python course,4347
+2026-02-16,Other,Miscellaneous,1425
+2026-02-16,Shopping,Shoes,3041
+2026-02-16,Shopping,Accessories,2951
+2026-02-16,Entertainment,Cafe,988
+2026-02-16,Entertainment,Event,724
+2026-02-17,Healthcare,Medicine,3570
+2026-02-17,Bills,Mobile recharge,2048
+2026-02-17,Bills,Mobile recharge,1624
+2026-02-17,Transport,Auto fare,542
+2026-02-17,Healthcare,Medicine,2326
+2026-02-18,Healthcare,Medical test,229
+2026-02-18,Entertainment,Cafe,2375
+2026-02-18,Entertainment,Cafe,917
+2026-02-18,Bills,Mobile recharge,800
+2026-02-18,Bills,Electricity bill,2048
+2026-02-19,Healthcare,Doctor consultation,1695
+2026-02-19,Other,Miscellaneous,2484
+2026-02-19,Food,Lunch,1401
+2026-02-19,Bills,Subscription,3894
+2026-02-20,Shopping,Accessories,1309
+2026-02-20,Healthcare,Medical test,3026
+2026-02-20,Education,Python course,2841
+2026-02-20,Other,Donation,3096
+2026-02-21,Education,Books,2705
+2026-02-21,Food,Snacks,1407
+2026-02-21,Other,Gift,1601
+2026-02-22,Transport,Fuel,1608
+2026-02-22,Education,Books,2952
+2026-02-22,Transport,Auto fare,1021
+2026-02-23,Transport,Parking,1135
+2026-02-23,Education,Notebook,3324
+2026-02-23,Education,Exam fee,4407
+2026-02-23,Education,Exam fee,3788
+2026-02-23,Transport,Parking,434
+2026-02-24,Entertainment,Gaming,1229
+2026-02-24,Bills,Electricity bill,1535
+2026-02-24,Food,Dinner,199
+2026-02-24,Bills,Subscription,1073
+2026-02-24,Education,Stationery,4627
+2026-02-24,Bills,Mobile recharge,2723
+2026-02-24,Other,Gift,3240
+2026-02-25,Bills,Subscription,1278
+2026-02-25,Shopping,Shoes,4610
+2026-02-25,Shopping,Clothes,2673
+2026-02-25,Transport,Cab,246
+2026-02-25,Shopping,Accessories,5970
+2026-02-26,Food,Dinner,1062
+2026-02-26,Bills,Mobile recharge,1799
+2026-02-26,Education,Python course,725
+2026-02-26,Bills,Subscription,550
+2026-02-26,Shopping,Clothes,6710
+2026-02-26,Other,Miscellaneous,652
+2026-02-27,Healthcare,Medical test,2141
+2026-02-27,Bills,Internet bill,815
+2026-02-27,Bills,Subscription,2717
+2026-02-27,Food,Dinner,1226
+2026-02-27,Other,Miscellaneous,785
+2026-02-27,Food,Dinner,1410
+2026-02-27,Food,Breakfast,791
+2026-02-27,Other,Unexpected expense,2561
+2026-02-27,Shopping,Accessories,6619
+2026-02-28,Other,Miscellaneous,3632
+2026-02-28,Entertainment,Streaming subscription,1127
+2026-02-28,Food,Breakfast,1117
+2026-02-28,Entertainment,Cafe,414
+2026-03-01,Bills,Internet bill,1430
+2026-03-01,Food,Snacks,345
+2026-03-01,Food,Snacks,742
+2026-03-01,Education,Notebook,4754
+2026-03-01,Transport,Metro,1171
+2026-03-01,Education,Notebook,1857
+2026-03-01,Healthcare,Doctor consultation,4185
+2026-03-01,Healthcare,Doctor consultation,2166
+2026-03-02,Transport,Fuel,829
+2026-03-02,Bills,Electricity bill,2165
+2026-03-02,Bills,Mobile recharge,1350
+2026-03-02,Transport,Parking,888
+2026-03-02,Transport,Auto fare,1123
+2026-03-02,Shopping,Shoes,411
+2026-03-02,Transport,Cab,1703
+2026-03-03,Entertainment,Streaming subscription,2559
+2026-03-03,Shopping,Electronics,6693
+2026-03-03,Other,Unexpected expense,3031
+2026-03-03,Bills,Internet bill,3164
+2026-03-03,Transport,Parking,1156
+2026-03-03,Education,Printing,2964
+2026-03-03,Other,Miscellaneous,3175
+2026-03-03,Bills,Electricity bill,4216
+2026-03-03,Bills,Subscription,1533
+2026-03-04,Education,Books,333
+2026-03-04,Shopping,Clothes,2900
+2026-03-04,Shopping,Personal items,7225
+2026-03-04,Education,Python course,4088
+2026-03-04,Education,Notebook,2725
+2026-03-04,Healthcare,Medical test,2275
+2026-03-04,Food,Snacks,696
+2026-03-05,Shopping,Electronics,3572
+2026-03-05,Food,Snacks,674
+2026-03-05,Bills,Subscription,3392
+2026-03-05,Shopping,Accessories,7900
+2026-03-06,Bills,Subscription,1354
+2026-03-06,Education,Books,3704
+2026-03-07,Transport,Fuel,619
+2026-03-07,Other,Miscellaneous,730
+2026-03-07,Shopping,Personal items,4051
+2026-03-07,Healthcare,Medical test,1172
+2026-03-08,Food,Restaurant,278
+2026-03-08,Other,Donation,3167
+2026-03-08,Healthcare,Medical test,2689
+2026-03-08,Transport,Parking,1926
+2026-03-08,Bills,Subscription,4800
+2026-03-08,Other,Donation,3559
+2026-03-09,Food,Dinner,389
+2026-03-09,Bills,Internet bill,3377
+2026-03-09,Healthcare,Doctor consultation,3667
+2026-03-09,Food,Breakfast,1064
+2026-03-09,Education,Exam fee,2675
+2026-03-09,Other,Miscellaneous,3672
+2026-03-09,Entertainment,Movie,932
+2026-03-09,Bills,Mobile recharge,1981
+2026-03-10,Transport,Cab,879
+2026-03-10,Healthcare,Medicine,2470
+2026-03-11,Healthcare,Medicine,563
+2026-03-11,Transport,Auto fare,1000
+2026-03-11,Education,Printing,506
+2026-03-12,Food,College canteen,1020
+2026-03-12,Other,Donation,4618
+2026-03-12,Bills,Internet bill,3626
+2026-03-12,Healthcare,Medical test,770
+2026-03-12,Healthcare,Medical test,2665
+2026-03-13,Entertainment,Movie,129
+2026-03-13,Shopping,Clothes,2719
+2026-03-13,Shopping,Shoes,121
+2026-03-13,Healthcare,Doctor consultation,442
+2026-03-13,Other,Unexpected expense,4141
+2026-03-13,Bills,Subscription,2819
+2026-03-13,Education,Stationery,2130
+2026-03-14,Food,Lunch,954
+2026-03-14,Food,Lunch,588
+2026-03-14,Entertainment,Gaming,1207
+2026-03-14,Healthcare,Doctor consultation,1094
+2026-03-14,Food,Restaurant,1242
+2026-03-14,Entertainment,Streaming subscription,2440
+2026-03-14,Shopping,Shoes,6132
+2026-03-14,Education,Books,4203
+2026-03-15,Education,Printing,1418
+2026-03-15,Education,Exam fee,916
+2026-03-15,Shopping,Shoes,4940
+2026-03-15,Bills,Internet bill,2009
+2026-03-15,Entertainment,Cafe,1549
+2026-03-15,Other,Gift,794
+2026-03-15,Entertainment,Movie,1019
+2026-03-15,Food,College canteen,178
+2026-03-15,Transport,Metro,1706
+2026-03-16,Bills,Subscription,3386
+2026-03-16,Bills,Mobile recharge,2162
+2026-03-16,Shopping,Clothes,3222
+2026-03-16,Shopping,Electronics,6704
+2026-03-16,Other,Miscellaneous,406
+2026-03-16,Shopping,Accessories,4923
+2026-03-16,Education,Printing,4790
+2026-03-16,Other,Miscellaneous,3689
+2026-03-17,Healthcare,Medicine,4116
+2026-03-17,Education,Stationery,1559
+2026-03-17,Transport,Fuel,671
+2026-03-17,Transport,Auto fare,1853
+2026-03-17,Food,College canteen,594
+2026-03-18,Bills,Subscription,1830
+2026-03-18,Education,Stationery,248
+2026-03-18,Education,Stationery,4531
+2026-03-18,Transport,Auto fare,61
+2026-03-19,Food,Lunch,74
+2026-03-19,Bills,Internet bill,2671
+2026-03-19,Shopping,Shoes,2604
+2026-03-19,Transport,Bus fare,1505
+2026-03-19,Transport,Bus fare,581
+2026-03-19,Shopping,Electronics,7643
+2026-03-19,Food,Restaurant,659
+2026-03-19,Shopping,Clothes,2742
+2026-03-19,Education,Exam fee,4739
+2026-03-20,Education,Books,1642
+2026-03-20,Shopping,Clothes,7372
+2026-03-20,Entertainment,Streaming subscription,2178
+2026-03-20,Food,College canteen,155
+2026-03-20,Transport,Bus fare,1741
+2026-03-20,Education,Notebook,4534
+2026-03-21,Entertainment,Gaming,1909
+2026-03-21,Other,Gift,3068
+2026-03-21,Bills,Subscription,316
+2026-03-21,Transport,Cab,1421
+2026-03-21,Healthcare,Medicine,4807
+2026-03-21,Entertainment,Cafe,916
+2026-03-21,Transport,Fuel,1900
+2026-03-21,Shopping,Shoes,3779
+2026-03-21,Shopping,Personal items,6016
+2026-03-21,Bills,Electricity bill,2476
+2026-03-22,Transport,Fuel,1076
+2026-03-22,Transport,Metro,1947
+2026-03-22,Other,Miscellaneous,2328
+2026-03-22,Transport,Bus fare,1980
+2026-03-22,Bills,Electricity bill,2394
+2026-03-22,Food,Restaurant,402
+2026-03-22,Bills,Electricity bill,1156
+2026-03-23,Transport,Auto fare,1484
+2026-03-23,Shopping,Clothes,7417
+2026-03-23,Bills,Mobile recharge,4752
+2026-03-23,Entertainment,Cafe,1838
+2026-03-24,Food,College canteen,787
+2026-03-24,Healthcare,Doctor consultation,2762
+2026-03-24,Other,Donation,3508
+2026-03-24,Bills,Mobile recharge,3003
+2026-03-24,Transport,Bus fare,1015
+2026-03-24,Bills,Internet bill,2196
+2026-03-24,Transport,Fuel,159
+2026-03-25,Other,Gift,3501
+2026-03-25,Entertainment,Cafe,2428
+2026-03-25,Education,Python course,1013
+2026-03-25,Bills,Subscription,2255
+2026-03-25,Other,Miscellaneous,4365
+2026-03-25,Education,Python course,4394
+2026-03-25,Shopping,Electronics,3082
+2026-03-25,Food,Breakfast,283
+2026-03-26,Transport,Auto fare,1209
+2026-03-26,Food,College canteen,1057
+2026-03-26,Bills,Mobile recharge,4241
+2026-03-27,Entertainment,Cafe,464
+2026-03-27,Education,Notebook,2924
+2026-03-27,Transport,Bus fare,1250
+2026-03-27,Entertainment,Cafe,2365
+2026-03-28,Healthcare,Medical test,4825
+2026-03-28,Shopping,Personal items,5335
+2026-03-28,Food,Restaurant,1339
+2026-03-28,Transport,Fuel,711
+2026-03-28,Bills,Mobile recharge,3045
+2026-03-28,Bills,Mobile recharge,151
+2026-03-28,Food,Snacks,516
+2026-03-28,Shopping,Electronics,211
+2026-03-28,Healthcare,Medicine,4422
+2026-03-29,Shopping,Personal items,3203
+2026-03-29,Entertainment,Event,1550
+2026-03-29,Healthcare,Doctor consultation,625
+2026-03-29,Education,Python course,2998
+2026-03-30,Entertainment,Streaming subscription,1662
+2026-03-30,Food,College canteen,65
+2026-03-31,Education,Exam fee,218
+2026-03-31,Transport,Parking,1890
